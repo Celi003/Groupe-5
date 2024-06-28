@@ -1,40 +1,40 @@
 class Array:
     def __init__(self, data):
-        if isinstance(data[0], list):  
+        if isinstance(data[0], list):
             # pour 2D
             self.data = data
             self.shape = (len(data), len(data[0]))
+        else:
             # pour 1D
-        else:  
             self.data = data
             self.shape = (len(data),)
 
     def __len__(self):
         return self.shape[0]
 
-    def __add__(self, other): # pour l'adition
+    def __add__(self, other): # pour l'addition
         if isinstance(other, Array):
             if self.shape != other.shape:
-                raise ValueError("Les formes  ne sont pas pareilles.")
+                raise ValueError("Les formes ne sont pas pareilles.")
             if len(self.shape) == 1:
                 return Array([self.data[i] + other.data[i] for i in range(len(self.data))])
             else:
                 return Array([[self.data[i][j] + other.data[i][j] for j in range(self.shape[1])] for i in range(self.shape[0])])
-        else:  
+        else:
             if len(self.shape) == 1:
                 return Array([x + other for x in self.data])
             else:
                 return Array([[x + other for x in row] for row in self.data])
 
-        def __sub__(self, other): # pour la soustraction
+    def __sub__(self, other): # pour la soustraction
         if isinstance(other, Array):
             if self.shape != other.shape:
-                raise ValueError("Les formes  ne sont pas pareilles")
+                raise ValueError("Les formes ne sont pas pareilles")
             if len(self.shape) == 1:
                 return Array([self.data[i] - other.data[i] for i in range(len(self.data))])
             else:
                 return Array([[self.data[i][j] - other.data[i][j] for j in range(self.shape[1])] for i in range(self.shape[0])])
-        else:  
+        else:
             if len(self.shape) == 1:
                 return Array([x - other for x in self.data])
             else:
@@ -43,12 +43,12 @@ class Array:
     def __mul__(self, other): # pour la multiplication
         if isinstance(other, Array):
             if self.shape != other.shape:
-                raise ValueError("Les formes  ne sont pas pareilles.")
+                raise ValueError("Les formes ne sont pas pareilles.")
             if len(self.shape) == 1:
                 return Array([self.data[i] * other.data[i] for i in range(len(self.data))])
             else:
                 return Array([[self.data[i][j] * other.data[i][j] for j in range(self.shape[1])] for i in range(self.shape[0])])
-        else:  
+        else:
             if len(self.shape) == 1:
                 return Array([x * other for x in self.data])
             else:
@@ -57,12 +57,12 @@ class Array:
     def __truediv__(self, other): # pour la division
         if isinstance(other, Array):
             if self.shape != other.shape:
-                raise ValueError("Les formes  ne sont pas pareilles.")
+                raise ValueError("Les formes ne sont pas pareilles.")
             if len(self.shape) == 1:
                 return Array([self.data[i] / other.data[i] for i in range(len(self.data))])
             else:
                 return Array([[self.data[i][j] / other.data[i][j] for j in range(self.shape[1])] for i in range(self.shape[0])])
-        else:  
+        else:
             if len(self.shape) == 1:
                 return Array([x / other for x in self.data])
             else:
@@ -92,7 +92,6 @@ class Array:
 
     def __repr__(self):
         return f"Array({self.data})"
-
 
 # Exemple d'utilisation
 a = Array([1, 2, 3])

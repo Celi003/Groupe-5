@@ -80,7 +80,7 @@ Ce rapport présente les résultats du projet final pour le cours de Programmati
 * BOKO Delys : Aide à la réalisation de la tâche 3 au niveau de l'interface (Tâche 3).
 * AIZONOU Dèpkatin Espoir Célibert : Implémentation du code et Intégration du modèle de Hugging Face en python (Tâche 3).
 * AGOSSOU Enagnon Etienne : Documentation et rapport final.
-* AIZONOU Dèpkatin Espoir Célibert : Test et validation du code.
+* AIZONOU Dèpkatin Espoir Célibert : Test, correction des erreurs et validation du code.
 
 
 # Conclusion :
