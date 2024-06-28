@@ -1,13 +1,13 @@
 # Groupe-5 : Rapport du Projet Final Programmation Avancée en Python et Introduction à R
 
 # Membres du groupe et leur participation :
-    AGOSSOU Enagnon Etienne (8%)
+    AGOSSOU Enagnon Etienne (7%)
     AIZONOU Dèpkatin Espoir Célibert (14%)
     ASSOUROKO Obed Kadoukpè (5%)
     BACHABI Abdel Alim Adébayo (13%)
     BOKO Delys (10%)
-    DOSSOU Marolle Orétan Estelle (10%)
-    FALETI Jospin (4%)
+    DOSSOU Marolle Orétan Estelle (8%)
+    FALETI Jospin (7%)
 	  NAHOU Périclès Lionel (14%)
 	  TALEHOU Roberto Junior (0%)
     TINMITONDE Pernel Djahou (11%)
@@ -79,7 +79,7 @@ Ce rapport présente les résultats du projet final pour le cours de Programmati
 * BACHABI Abdel Alim Adébayo : Développement de l'interface GUI avec Tkinter (Tâche 3).
 * BOKO Delys : Aide à la réalisation de la tâche 3 au niveau de l'interface (Tâche 3).
 * AIZONOU Dèpkatin Espoir Célibert : Implémentation du code et Intégration du modèle de Hugging Face en python (Tâche 3).
-* AGOSSOU Enagnon Etienne : Documentation et rapport final.
+* AGOSSOU Enagnon Etienne et FALETI Jospin : Documentation et rapport final.
 * AIZONOU Dèpkatin Espoir Célibert : Test, correction des erreurs et validation du code.
 
 
