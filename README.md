@@ -1,17 +1,17 @@
 # Groupe-5 : Rapport du Projet Final Programmation Avancée en Python et Introduction à R
 
-# Membres du groupe :
-    AGOSSOU Enagnon Etienne
-    AIZONOU Dèpkatin Espoir Célibert
-    ASSOUROKO Obed Kadoukpè
-    BACHABI Abdel Alim Adébayo
-    BOKO Delys
-    DOSSOU Marolle Orétan Estelle
-    FALETI Jospin
-	NAHOU Périclès Sèhui Lionel
-	TALEHOU Roberto Junior Mahugnon
-    TINMITONDE Pernel Djahou
-	ZOHOUN Amédée Ange-Marie Kpèdido
+# Membres du groupe et leur participation :
+    AGOSSOU Enagnon Etienne (10%)
+    AIZONOU Dèpkatin Espoir Célibert (18%)
+    ASSOUROKO Obed Kadoukpè (5%)
+    BACHABI Abdel Alim Adébayo (14%)
+    BOKO Delys (10%)
+    DOSSOU Marolle Orétan Estelle (5%)
+    FALETI Jospin (4%)
+	  NAHOU Périclès Sèhui Lionel (16%)
+	  TALEHOU Roberto Junior Mahugnon (0%)
+    TINMITONDE Pernel Djahou (4%)
+	  ZOHOUN Amédée Ange-Marie Kpèdido (14%)
 
 
 # Introduction :
