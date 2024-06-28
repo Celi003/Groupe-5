@@ -8,8 +8,8 @@
     BOKO Delys (10%)
     DOSSOU Marolle Orétan Estelle (5%)
     FALETI Jospin (4%)
-	  NAHOU Périclès Sèhui Lionel (16%)
-	  TALEHOU Roberto Junior Mahugnon (0%)
+	  NAHOU Périclès Lionel (16%)
+	  TALEHOU Roberto Junior (0%)
     TINMITONDE Pernel Djahou (4%)
 	  ZOHOUN Amédée Ange-Marie Kpèdido (14%)
 
