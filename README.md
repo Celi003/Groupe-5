@@ -1,17 +1,17 @@
 # Groupe-5 : Rapport du Projet Final Programmation Avancée en Python et Introduction à R
 
 # Membres du groupe et leur participation :
-    AGOSSOU Enagnon Etienne (10%)
-    AIZONOU Dèpkatin Espoir Célibert (18%)
+    AGOSSOU Enagnon Etienne (8%)
+    AIZONOU Dèpkatin Espoir Célibert (14%)
     ASSOUROKO Obed Kadoukpè (5%)
-    BACHABI Abdel Alim Adébayo (14%)
+    BACHABI Abdel Alim Adébayo (13%)
     BOKO Delys (10%)
-    DOSSOU Marolle Orétan Estelle (5%)
+    DOSSOU Marolle Orétan Estelle (10%)
     FALETI Jospin (4%)
-	  NAHOU Périclès Lionel (16%)
+	  NAHOU Périclès Lionel (14%)
 	  TALEHOU Roberto Junior (0%)
-    TINMITONDE Pernel Djahou (4%)
-	  ZOHOUN Amédée Ange-Marie Kpèdido (14%)
+    TINMITONDE Pernel Djahou (11%)
+	  ZOHOUN Amédée Ange-Marie Kpèdido (11%)
 
 
 # Introduction :
@@ -73,9 +73,9 @@ Ce rapport présente les résultats du projet final pour le cours de Programmati
 * Fichier de Code : Le fichier de code sera app.py.
 
 ## Contributions de chaque membre du groupe :
-* ZOHOUN Amédée Ange-Marie Kpèdido : Implémentation de la classe Array et des opérations élémentaires (Tâche 1).
-* NAHOU Périclès Sèhui Lionel : Création des graphiques en Python (Tâche 2).
-* NAHOU Périclès Sèhui Lionel : Analyse des données et création des graphiques en R (Tâche 2).
+* ZOHOUN Amédée Ange-Marie Kpèdido et TINMITONDE Pernel Djahou : Implémentation de la classe Array et des opérations élémentaires (Tâche 1).
+* NAHOU Périclès Sèhui Lionel : Création des graphiques en Python, Analyse des données et création des graphiques en R (Tâche 2).
+* DOSSOU Marolle Orétan Estelle : Aide à la réalisation de la tâche 2.
 * BACHABI Abdel Alim Adébayo : Développement de l'interface GUI avec Tkinter (Tâche 3).
 * BOKO Delys : Aide à la réalisation de la tâche 3 au niveau de l'interface (Tâche 3).
 * AIZONOU Dèpkatin Espoir Célibert : Implémentation du code et Intégration du modèle de Hugging Face en python (Tâche 3).
